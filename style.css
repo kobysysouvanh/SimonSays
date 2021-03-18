@@ -19,3 +19,45 @@ button {
   padding: 10px;
   border-radius: 10px;
 }
+
+#gameButtonArea > button {
+  width: 200px;
+  height: 200px;
+  margin: 2px;
+}
+
+#button1 {
+  background: lightgreen;
+}
+
+#button2 {
+  background: lightblue;
+}
+
+#button3 {
+  background: lightcoral;
+}
+
+#button4 {
+  background: lightyellow;
+}
+
+.hidden {
+  display: none;
+}
+
+#button1:active {
+  background: green;
+}
+
+#button2:active {
+  background: blue;
+}
+
+#button3:active {
+  background: red;
+}
+
+#button4:active {
+  background: yellow;
+}
