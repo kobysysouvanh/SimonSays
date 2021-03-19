@@ -4,7 +4,7 @@
 
 Submitted by: Koby Sysouvanh
 
-Time spent: 1 hours spent in total
+Time spent: 40 minutes spent in total
 
 Link to project: https://fantasy-peaceful-gargoyleosaurus.glitch.me/
 
